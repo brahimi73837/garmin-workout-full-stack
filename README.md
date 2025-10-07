@@ -1,7 +1,12 @@
-```markdown
 # 🏃‍♂️ Garmin NLP Workouts — Full Stack App
 
 This project converts **natural language workout descriptions** (e.g. “4 × 8min @ HM pace with 2min jog recovery”) into **structured Garmin workouts** that can be uploaded to your Garmin Connect account.
+
+
+
+https://github.com/user-attachments/assets/84cc5d19-a4db-4b22-9e3c-16879d75a60d
+
+
 
 Built with:
 - 🧠 **FastAPI (Python)** backend — parses text and communicates with Garmin Connect  
@@ -33,7 +38,7 @@ garmin-workouts-mcp/
 ├── .gitignore
 └── README.md
 
-````
+```
 
 ---
 
