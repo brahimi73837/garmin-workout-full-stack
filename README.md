@@ -48,7 +48,7 @@ garmin-workouts-mcp/
 
 ```bash
 git clone https://github.com/brahimi73837/garmin-workout-full-stack.git
-cd garmin-workouts-mcp
+cd garmin-workouts-full-stack
 ````
 
 ---
@@ -111,6 +111,12 @@ Open another terminal window:
 cd frontend
 npm install
 npm run dev
+```
+
+or 
+```bash
+cd frontend
+next dev
 ```
 
 The frontend runs at:
